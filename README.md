@@ -4,7 +4,7 @@ A full-stack web application for task management built with Next.js (frontend) a
 
 **Checkout the live demo** :
 - [client](https://task-management-algoroot.vercel.app/)
-- [server](https://task-management-algoroot.onrender.app/)
+- [server](https://task-management-algoroot.onrender.com/)
 
 ## Features
 
