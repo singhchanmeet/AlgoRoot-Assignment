@@ -1,0 +1,37 @@
+.container {
+    width: 100%;
+  }
+  
+  .grid {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+  
+  .errorAlert {
+    background-color: #fee2e2;
+    color: #b91c1c;
+    padding: 1rem;
+    border-radius: 0.375rem;
+    margin-bottom: 1rem;
+  }
+  
+  .loading {
+    text-align: center;
+    padding: 2rem;
+    color: #6b7280;
+  }
+  
+  @media (min-width: 768px) {
+    .grid {
+      flex-direction: row;
+    }
+    
+    .formSection {
+      flex: 1;
+    }
+    
+    .listSection {
+      flex: 2;
+    }
+  }
