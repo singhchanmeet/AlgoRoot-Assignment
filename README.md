@@ -2,6 +2,10 @@
 
 A full-stack web application for task management built with Next.js (frontend) and Express.js (backend).
 
+**Checkout the live demo** :
+- [client](https://task-management-algoroot.vercel.app/)
+- [server](https://task-management-algoroot.onrender.app/)
+
 ## Features
 
 - Create, read, update, and delete tasks
@@ -205,4 +209,4 @@ curl -X DELETE http://localhost:5000/tasks/task-id
 - Dark mode
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/singhchanmeet/AlgoRoot-Assignment/blob/master/LICENSE)
